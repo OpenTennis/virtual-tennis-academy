@@ -1,6 +1,6 @@
 # Virtual Tennis Academy – Powered by [OffCourt](https://offcourt.app) 🎾
 
-Welcome to the official repository of the **Virtual Tennis Academy** — an open-source project to reinvent how ambitious players train, grow, and prepare off the court.
+Welcome to the official repository of the **Virtual Tennis Academy**, an open-source project to reinvent how ambitious players train, grow, and prepare off the court.
 
 This project is the backbone of the first **fully virtual tennis academy**, structured around the OffCourt methodology: deliberate, high-performance training that happens before you step on court.
 
@@ -8,7 +8,7 @@ This project is the backbone of the first **fully virtual tennis academy**, stru
 
 ## 🌐 About OffCourt
 
-[OffCourt](https://offcourt.app) is the first high-performance training app built entirely for what happens **off the court** — where real progress begins.
+[OffCourt](https://offcourt.app) is the first high-performance training app built entirely for what happens **off the court** where real progress begins.
 
 - 🧠 Mental imagery & focus routines tailored to tennis
 - 🏋️ Physical prep for balance, mobility & explosiveness
@@ -29,7 +29,7 @@ The Virtual Tennis Academy project aims to:
 - Enable coaches to monitor off-court readiness and mindset
 - Serve as a companion layer to real-world academy or tournament training
 
-This is **not** a video course or one-size-fits-all program. It’s a system, designed to grow and adapt — and now, open to contributions.
+This is **not** a video course or one-size-fits-all program. It’s a system, designed to grow and adapt which is now open to contributions.
 
 ---
 
